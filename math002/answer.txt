@@ -1,0 +1,16 @@
+Problem 2 :
+Part A :
+ def answer():
+   a,b=1,1
+   total = 0
+   while a <= 4000000:
+      if a % 2 == 0:
+        total += a
+      a, b = b, a+b 
+   return total
+
+print(answer())
+
+Answer : 
+      sum of even numbers : 754
+      sum of odd numbers : 610
