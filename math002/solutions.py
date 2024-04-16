@@ -20,6 +20,6 @@ def solver(start, end, even=False,odd=False):
         fibs.append(nxt_val)
     even=[i for i in fibs if i%2==0 and i>=start]
     odd=[i for i in fibs if i%2!=0 and i>=start]
-    return f'Even :{even}, Odd:{odd}'
+    return f'Even :{sum(even)}, Odd:{sum(odd)}'
 
 print(solver(100,800))
