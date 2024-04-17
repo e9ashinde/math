@@ -1,0 +1,19 @@
+Problem 3:
+    Part A:  
+         n=600
+         Ans: 5
+
+         n=851
+         Ans: 37
+
+         n=475
+         Ans: 19
+
+         n=143
+         Ans: 13
+
+
+    Part B:
+
+        Ans: 5
+
