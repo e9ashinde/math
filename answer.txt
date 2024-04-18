@@ -1,0 +1,9 @@
+Problem 4:
+
+Part A:  
+   
+     Ans = 906609
+
+Part B:
+
+    Ans = 906609
