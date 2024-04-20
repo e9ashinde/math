@@ -1,7 +1,4 @@
-Problem 5
+Output :
 
-   Part A: 
-       Ans: 1
-
-   Part B:
-       Ans:2520
+Part A: 232792560
+Part B: 2329089562800
