@@ -31,5 +31,11 @@ Write a function in python that returns
 - `None` if neither p nor q are defined
 - the number which returns the longest collatz sequence such that the number is between (a) 1 and `p` if only `p` is defined and (b) `p` and `q` if both `p` and `q` are defined 
 
+<<<<<<< HEAD
 python
 solver(p: int = None, q: int = None)
+=======
+```python
+solver(p: int = None, q: int = None)
+```
+>>>>>>> 1d894d176d7745dbb568abdbf0131010b4548eeb
