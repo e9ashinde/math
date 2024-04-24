@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Problem No. 13
 
 ## Part A
