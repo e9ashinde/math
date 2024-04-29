@@ -17,3 +17,4 @@ def solver(n):
   l=[int(i) for i in s]
   return sum(l)
 print(solver(100))
+
